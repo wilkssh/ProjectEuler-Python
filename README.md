@@ -1,1 +1,1 @@
-# ProjectEuler-Python
+# Project Euler - Python Implementation
